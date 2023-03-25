@@ -1,6 +1,8 @@
 # frp-docker
 A docker image based on [official frp](https://github.com/fatedier/frp)
 
+基于官方正版的[frp](https://github.com/fatedier/frp)镜像，实时同步最新版本。可以在GitHub上fork项目自定义镜像：[frp-docker](https://github.com/everydoc/frp-docker)
+
 
 ## 使用
 
