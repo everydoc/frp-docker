@@ -2,7 +2,7 @@ FROM alpine:3.8
 MAINTAINER imjcker helloalanturing@icloud.com
 
 WORKDIR /
-ENV FRP_VERSION 0.48.0
+ENV FRP_VERSION 0.53.3
 
 ADD https://github.com/fatedier/frp/releases/download/v${FRP_VERSION}/frp_${FRP_VERSION}_linux_amd64.tar.gz /
 
