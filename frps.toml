@@ -1,0 +1,12 @@
+bindPort = 7000
+token="frpawesome"
+maxPoolCount = 10
+
+vhostHTTPPort = 80
+subDomainHost = "easaint.com"
+custom404Page = "/frp/404.html"
+
+webServer.port = 7500
+webServer.user = "frps"
+webServer.password = "frps.123F"
+

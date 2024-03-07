@@ -1,0 +1,15 @@
+serverAddr = "127.0.0.1"
+serverPort = 7000
+
+webServer.addr = "127.0.0.1"
+webServer.port = 7400
+webServer.user = "frpc"
+webServer.password = "frpc.123F"
+
+
+[[proxies]]
+name = "frpc"
+type = "http"
+localPort = 80
+subdomain = "frpc.easaint.com"
+
